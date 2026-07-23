@@ -1,0 +1,3 @@
+﻿  ica1.cpp
+K:\3-2\CSH3254 Parallel Computing (P)\10 ica1\ica1\ica1.cpp(41,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ica1.vcxproj -> K:\3-2\CSH3254 Parallel Computing (P)\10 ica1\x64\Debug\ica1.exe

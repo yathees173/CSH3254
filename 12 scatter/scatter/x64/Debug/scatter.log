@@ -1,0 +1,3 @@
+﻿  scatter.cpp
+K:\3-2\CSH3254 Parallel Computing (P)\12 scatter\scatter\scatter.cpp(14,7): warning C4101: 'temp': unreferenced local variable
+  scatter.vcxproj -> K:\3-2\CSH3254 Parallel Computing (P)\12 scatter\x64\Debug\scatter.exe
