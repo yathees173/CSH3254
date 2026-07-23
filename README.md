@@ -59,15 +59,6 @@ Here:
 
 The number of processes may change depending on the program.
 
-## 📁 File Type
-
-MPI programs in this repository are saved using the `.c` extension because they are written in the C programming language.
-
-Example:
-
-```text
-mpi_sum.c
-```
 
 ## 🎯 Purpose
 
